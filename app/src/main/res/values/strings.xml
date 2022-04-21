@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheMovieApp</string>
+
+    <string name="location">%1$s, %2$s, %3$s</string>
+</resources>
